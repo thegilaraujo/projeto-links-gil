@@ -7,16 +7,16 @@ Este é um projeto bem básico, fruto de aprendizagem feito na Rocketseat, esper
 
 ### Light Theme - Blue
 
-![1](/_git/1.png)
+![1](/__git/1.png)
 
 ### Dark Theme - Blue
 
-![1](/_git/2.png)
+![1](/__git/2.png)
 
 ### Light Theme - Pink
 
-![1](/_git/3.png)
+![1](/__git/3.png)
 
 ### Dark Theme - Pink
 
-![1](/_git/4.png)
+![1](/__git/4.png)
