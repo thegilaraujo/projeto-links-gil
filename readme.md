@@ -1,4 +1,4 @@
-# Linktr
+# Link Tree
 
 Este é um projeto bem básico, fruto de aprendizagem feito na Rocketseat, espero que goste 😁
 
